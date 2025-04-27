@@ -118,7 +118,10 @@
           <mxGeometry x="545" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;图文特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="k-HDng2QfZnr4UuW0IeZ-40" vertex="1">
-          <mxGeometry x="487.5" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ciSVEoIkaR4KjTxS91h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k-HDng2QfZnr4UuW0IeZ-40" source="0ciSVEoIkaR4KjTxS91h-23" target="k-HDng2QfZnr4UuW0IeZ-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-23" value="FineTune Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k-HDng2QfZnr4UuW0IeZ-40">
           <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
