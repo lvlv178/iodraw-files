@@ -81,7 +81,7 @@
         <mxCell id="0ciSVEoIkaR4KjTxS91h-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;计算批次内相似度矩阵&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
           <mxGeometry x="60" y="170" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ciSVEoIkaR4KjTxS91h-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
+        <mxCell id="0ciSVEoIkaR4KjTxS91h-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;识别难负样本&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
           <mxGeometry x="50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
