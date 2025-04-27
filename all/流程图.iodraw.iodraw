@@ -52,7 +52,7 @@
           <mxGeometry x="325" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-40" value="Chinese-CLIP" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#f50000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="260" width="690" height="820" as="geometry" />
+          <mxGeometry x="30" y="260" width="690" height="820" as="geometry" />
         </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-1" value="FineTune Loop" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#2936E6;" vertex="1" parent="k-HDng2QfZnr4UuW0IeZ-40">
           <mxGeometry x="60" y="220" width="370" height="570" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-33" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;文&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;本特征&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;(jsonl)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="k-HDng2QfZnr4UuW0IeZ-40" vertex="1">
-          <mxGeometry x="380" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="400" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;图片特征&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;(jsonl)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="k-HDng2QfZnr4UuW0IeZ-40" vertex="1">
           <mxGeometry x="545" y="610" width="140" height="60" as="geometry" />
