@@ -64,7 +64,7 @@
           <mxGeometry x="397.5" y="1480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-40" value="Chinese-CLIP" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#f50000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="270" width="690" height="960" as="geometry" />
+          <mxGeometry x="120" y="260" width="690" height="820" as="geometry" />
         </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-1" value="FineTune Loop" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#2936E6;" vertex="1" parent="k-HDng2QfZnr4UuW0IeZ-40">
           <mxGeometry x="60" y="220" width="370" height="570" as="geometry" />
