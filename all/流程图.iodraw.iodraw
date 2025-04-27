@@ -74,7 +74,7 @@
           <mxGeometry x="120" y="270" width="520" height="410" as="geometry" />
         </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-1" value="Chinese-CLIP" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#2936E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="280" width="400" height="250" as="geometry" />
+          <mxGeometry x="390" y="880" width="400" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
