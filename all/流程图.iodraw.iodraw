@@ -43,17 +43,13 @@
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;图文对匹配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k-HDng2QfZnr4UuW0IeZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k-HDng2QfZnr4UuW0IeZ-21" target="k-HDng2QfZnr4UuW0IeZ-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="k-HDng2QfZnr4UuW0IeZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k-HDng2QfZnr4UuW0IeZ-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;序列化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k-HDng2QfZnr4UuW0IeZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k-HDng2QfZnr4UuW0IeZ-28" target="k-HDng2QfZnr4UuW0IeZ-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k-HDng2QfZnr4UuW0IeZ-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;微调&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k-HDng2QfZnr4UuW0IeZ-31" target="k-HDng2QfZnr4UuW0IeZ-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +70,7 @@
           <mxGeometry x="120" y="270" width="520" height="410" as="geometry" />
         </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-1" value="FineTune Loop" style="swimlane;startSize=0;dashed=1;perimeterSpacing=0;dashPattern=8 8;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontColor=#2936E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="880" width="400" height="250" as="geometry" />
+          <mxGeometry x="320" y="860" width="400" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
