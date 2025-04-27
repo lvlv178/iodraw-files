@@ -72,10 +72,13 @@
         <mxCell id="k-HDng2QfZnr4UuW0IeZ-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;图文特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="0ciSVEoIkaR4KjTxS91h-1" vertex="1">
           <mxGeometry x="142.5" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0ciSVEoIkaR4KjTxS91h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0ciSVEoIkaR4KjTxS91h-1" source="0ciSVEoIkaR4KjTxS91h-2" target="0ciSVEoIkaR4KjTxS91h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0ciSVEoIkaR4KjTxS91h-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模型前向传播&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;获取图文嵌入&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
           <mxGeometry x="135" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ciSVEoIkaR4KjTxS91h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
+        <mxCell id="0ciSVEoIkaR4KjTxS91h-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;计算批次内相似度矩阵&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ciSVEoIkaR4KjTxS91h-1">
           <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
